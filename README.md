@@ -1,7 +1,8 @@
 # alura-books
-Projeto sendo desenvolvido no curso da alura sobre responsividade com mobile-first
+Projeto desenvolvido no curso da alura sobre responsividade com mobile-first
 
-## Projeto finalizado
+## Página do projeto
+> https://luizvjr2001.github.io/alura-books/
 
 ### Conceitos utilizados
 * Mobile-First
